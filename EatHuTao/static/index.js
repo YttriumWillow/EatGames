@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://yttriumwillow.github.io/EatHuTao/ClickBefore.png';
+var url = 'https://yttriumwillow.github.io/EatGames/EatHuTao/static/image/ClickBefore.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
